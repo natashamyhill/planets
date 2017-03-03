@@ -1,3 +1,5 @@
+#This is my Mars log. 
+
 Mars is a red planet. It has two moons. 
 It has a BIG volcano on it.
 It is the third planet from the Sun. 
